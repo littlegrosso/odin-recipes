@@ -1,5 +1,75 @@
-body { 
-    background-color: #ddd9ba;
-    font-size: 40px;
-    font-family: Helvetica;
-}
+body {
+    background-image: url("../images/brillant.png");
+    font-family: "Rock Salt",Yomogi,"Century Gothic",CenturyGothic,AppleGothic,sans-serif;
+    font-size: 30px;
+    margin: 0;
+    color: rgb(139, 0, 30);
+  
+  }
+  
+  header {
+    background-image: url("../images/blackchalkboard.png");
+    padding-top: 2px;
+    padding-bottom: 10px;
+    text-align: center;
+    color: whitesmoke;
+    margin-bottom: 20px;
+  
+  }
+  
+  .container{
+    width: 90%;
+    margin: 0 auto;
+
+  
+  }
+  
+  section {
+    float: right;
+    width: 60%;
+    margin-bottom: 100px;
+    list-style-type: none;
+    color: red;
+    background-color:aquamarine;
+    text-align: center;
+    
+    
+  
+  }
+  
+  aside {
+    float: left;
+    width: 40%;
+    list-style-type: none;
+    font-size: 10px;
+    font-family:'Courier New', Courier, monospace;
+    line-height: 1.4;
+
+  }
+  
+  footer {
+    background-image: url("../images/blackchalkboard.png");
+    clear:both;
+    padding: 50px 0;
+    text-align: center;
+  }
+
+  .hype {
+    color: red;
+    font-family: "Irish Grover",Verdana,Gevena,Tahoma,sans-serif;
+    font-size: 25px;
+    font-style: underline;
+    font-weight: bolder;
+  }
+
+  .sidelist {
+
+    font-size: 25px;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    list-style-type: none;
+
+
+  }
+
+  
